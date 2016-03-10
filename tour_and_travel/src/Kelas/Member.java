@@ -10,5 +10,10 @@ package Kelas;
  * @author Ferawidya
  */
 public class Member {
-    
+    private static int jmlMember = 0;
+    private Customer[] mem = new Customer[jmlMember];
+    public void AddMember (Customer c) {
+        this.mem[jmlMember] = c;
+        this.jmlMember++;
+    }
 }
