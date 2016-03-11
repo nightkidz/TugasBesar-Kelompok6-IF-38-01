@@ -10,5 +10,6 @@ package Interfce;
  * @author Ferawidya
  */
 public interface Pemesanan {
-    
+   public void pesan();
+   public void pilihPaket();
 }
