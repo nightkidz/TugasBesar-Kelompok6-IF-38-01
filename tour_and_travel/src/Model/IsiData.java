@@ -4,9 +4,9 @@
  * and open the template in the editor.
  */
 
-package travel.model;
+package Model;
 
-import travel.entity.Customer;
+import Kelas.Customer;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;

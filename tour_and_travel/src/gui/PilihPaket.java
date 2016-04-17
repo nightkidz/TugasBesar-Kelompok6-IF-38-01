@@ -10,10 +10,10 @@ import java.util.Date;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
 import travel.db.connection;
-import travel.entity.Customer;
-import travel.entity.Transaksi;
-import travel.model.IsiData;
-import travel.model.Pembayaran;
+import Kelas.Customer;
+import Kelas.Transaksi;
+import Model.IsiData;
+import Model.Pembayaran;
 
 /**
  *

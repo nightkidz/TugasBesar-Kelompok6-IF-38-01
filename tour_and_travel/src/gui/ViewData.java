@@ -8,7 +8,7 @@ package gui;
 
 import javax.swing.table.DefaultTableModel;
 import travel.db.connection;
-import travel.model.IsiData;
+import Model.IsiData;
 
 /**
  *
